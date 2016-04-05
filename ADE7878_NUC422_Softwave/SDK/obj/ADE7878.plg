@@ -1,0 +1,25 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Project:</h2>
+D:\王均伟\电能\ADE7878_NUC422_Softwave\SDK\ADE7878.uvproj
+Project File Date:  03/23/2016
+
+<h2>Output:</h2>
+Build target 'ADE7878'
+compiling fmc.c...
+compiling eepromapp.c...
+..\eefs\eepromapp\eepromapp.c(133): warning:  #1-D: last line of file ends without a newline
+..\eefs\eepromapp\eepromapp.c:   }
+..\eefs\eepromapp\eepromapp.c:    ^
+..\eefs\eepromapp\eepromapp.c: ..\eefs\eepromapp\eepromapp.c: 1 warning, 0 errors
+compiling eeprom.c...
+..\eefs\eeprom\eeprom.c(53): warning:  #1-D: last line of file ends without a newline
+..\eefs\eeprom\eeprom.c:   }
+..\eefs\eeprom\eeprom.c:    ^
+..\eefs\eeprom\eeprom.c: ..\eefs\eeprom\eeprom.c: 1 warning, 0 errors
+linking...
+Program Size: Code=17488 RO-data=1240 RW-data=536 ZI-data=12696  
+FromELF: creating hex file...
+".\obj\ADE7878.axf" - 0 Error(s), 2 Warning(s).

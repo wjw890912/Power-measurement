@@ -1,0 +1,1 @@
+--cpu Cortex-M4.fp -g --16 --apcs=interwork --pd "__MICROLIB SETA 1" -I "E:\Keil\ARM\INC" -I "E:\Keil\ARM\INC\Nuvoton" --list ".\list\startup_NUC472_442.lst" --xref -o ".\obj\startup_NUC472_442.o" --depend ".\obj\startup_NUC472_442.d" "..\CMIS\Source\ARM\startup_NUC472_442.s"
